@@ -1,6 +1,6 @@
-package ediblemetals.item;
+package mr_chumbucket.ediblemetals.item;
 
-import ediblemetals.EdibleMetals;
+import mr_chumbucket.ediblemetals.EdibleMetals;
 import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;

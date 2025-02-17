@@ -1,5 +1,6 @@
-package ediblemetals.item;
+package mr_chumbucket.ediblemetals.item;
 
+import com.google.common.collect.Iterables;
 import net.minecraft.component.type.FoodComponent;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;
@@ -7,11 +8,17 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.sound.SoundEvents;
+import net.minecraft.util.math.ColorHelper;
 import net.minecraft.world.World;
 
+import java.util.Collection;
+import java.util.List;
+
 public class SnackItem extends Item {
+	private static final Collection<SnackItem> SNACK_ITEMS = List.of();
+
 	public SnackItem(FoodComponent foodComponent) {
-		super(new Item.Settings().food(foodComponent));
+		super(new Settings().food(foodComponent));
 	}
 
 	@Override
@@ -37,5 +44,9 @@ public class SnackItem extends Item {
 	@Override
 	public SoundEvent getEatSound() {
 		return SoundEvents.ITEM_AXE_SCRAPE;
+	}
+
+	public static int compareTintIndex(int tintIndex, int argb) {
+		return tintIndex != 1 ? -1 : ColorHelper.Argb.fullAlpha(argb);
 	}
 }

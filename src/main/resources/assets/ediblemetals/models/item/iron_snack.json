@@ -1,6 +1,8 @@
 {
-"parent": "minecraft:item/generated",
-"textures": {
-   "layer0": "ediblemetals:item/iron_snack"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot",
+    "layer1": "ediblemetals:item/snack",
+    "layer2": "ediblemetals:item/snack_overlay"
   }
 }

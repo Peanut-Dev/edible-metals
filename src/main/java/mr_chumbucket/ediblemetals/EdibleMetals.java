@@ -1,7 +1,7 @@
-package ediblemetals;
+package mr_chumbucket.ediblemetals;
 
-import ediblemetals.item.ModItemGroups;
-import ediblemetals.item.ModItems;
+import mr_chumbucket.ediblemetals.item.ModItemGroups;
+import mr_chumbucket.ediblemetals.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;

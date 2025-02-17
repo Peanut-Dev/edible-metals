@@ -3,9 +3,9 @@
 	"id": "ediblemetals",
 	"version": "${version}",
 	"name": "Edible Metals",
-	"description": "this mod is bad",
+	"description": "Metal? In your stomach?",
 	"authors": [
-		"mrchumbucket"
+		"mr_chumbucket"
 	],
 	"contact": {
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
@@ -15,7 +15,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"ediblemetals.EdibleMetals"
+			"mr_chumbucket.ediblemetals.EdibleMetals"
+		],
+		"client": [
+			"mr_chumbucket.ediblemetals.EditableMetalsClient"
 		]
 	},
 	"depends": {
