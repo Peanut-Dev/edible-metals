@@ -1,9 +1,8 @@
 package ediblemetals.item;
 
 import ediblemetals.EdibleMetals;
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -22,5 +21,7 @@ public class ModItems {
 
     public static void load() {
         EdibleMetals.LOGGER.info("Registering mod items for" + EdibleMetals.MOD_ID);
+
+        FuelRegistry.INSTANCE.add(SNACK_WRAPPER, 100);
     }
 }

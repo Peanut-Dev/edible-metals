@@ -1,11 +1,16 @@
 ### About
+
+___
+
 Don't you hate it when you're in the middle of a mining session and run out of food?
 
-FEAR NO MORE!!
+### FEAR NO MORE!!
 
 This mod adds 4 new food items, crafted from ingots and wrappers, which restore your hunger and give you short buffs on consumption.
 
 ### Items
+
+___
 
 **Snack Wrapper:**
 
@@ -21,6 +26,7 @@ ___
 ![Copper Snack](https://cdn.modrinth.com/data/hr47a9BX/images/998823a590c20d092d5a9cc7235d5d58ea0c1f7a.png)
 
 Gives you Swiftness
+
 ___
 
 **Gold Snack:**
@@ -28,6 +34,7 @@ ___
 ![Gold Snack](https://cdn.modrinth.com/data/hr47a9BX/images/da7a025ea1e5fb375286402dbb46b9391d0cc80e.png)
 
 Gives you Regeneration
+
 ___
 
 **Iron Snack:**
@@ -43,6 +50,7 @@ ___
 ![Netherite Snack](https://cdn.modrinth.com/data/hr47a9BX/images/f793f27c52114451bf3d919db1c725d0490b74e0.png)
 
 Gives you Swiftness II, Strength II and Regeneration II
+
 ___
 
 [![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://curseforge.com/minecraft/mc-mods/edible-metals) [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mc-mods/edible-metals) [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Peanut-Dev/edible-metals) [![discord](https://badges.penpow.dev/badges/social/discord-singular/cozy-minimal.svg)](https://discord.gg/TyfPRCrJ9E)
