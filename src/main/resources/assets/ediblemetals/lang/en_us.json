@@ -1,0 +1,9 @@
+{
+  "itemgroup.ediblemetals.edible_metals": "Edible Metals",
+
+  "item.ediblemetals.copper_snack": "Copper Snack",
+  "item.ediblemetals.iron_snack": "Iron Snack",
+  "item.ediblemetals.gold_snack": "Gold Snack",
+  "item.ediblemetals.netherite_snack": "Netherite Snack",
+  "item.ediblemetals.snack_wrapper": "Snack Wrapper"
+}

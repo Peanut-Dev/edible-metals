@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "snack",
+  "category": "food",
+  "ingredients": [
+  {
+    "item": "ediblemetals:snack_wrapper"
+  },
+  {
+  "item": "minecraft:gold_ingot"
+  }
+    ],
+  "result": {
+    "id": "ediblemetals:gold_snack"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_snack",
+  "category": "food",
+  "ingredients": [
+  {
+    "item": "ediblemetals:snack_wrapper"
+  },
+  {
+  "item": "minecraft:copper_ingot"
+  }
+    ],
+  "result": {
+    "id": "ediblemetals:copper_snack"
+  }
+}

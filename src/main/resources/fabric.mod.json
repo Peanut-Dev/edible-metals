@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "ediblemetals",
+	"version": "${version}",
+	"name": "Edible Metals",
+	"description": "this mod is bad",
+	"authors": [
+		"mrchumbucket"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "Apache-2.0",
+	"icon": "assets/ediblemetals/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ediblemetals.EdibleMetals"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": ">=1.21.1",
+		"java": ">=21"
+	}
+}
