@@ -49,7 +49,7 @@ ___
 
 ![Netherite Snack](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/NetheriteSnack.png)
 
-Gives you Swiftness II, Strength II and Regeneration II
+Gives you Swiftness III, Strength III and Regeneration III
 
 ___
 
