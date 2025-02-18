@@ -16,11 +16,11 @@ public class ModItemGroups {
 					.displayName(Text.translatable("itemgroup." + EdibleMetals.MOD_ID + ".edible_metals"))
 					.icon(() -> new ItemStack(ModItems.IRON_SNACK))
 					.entries((displayContext, entries) -> {
+						entries.add(ModItems.SNACK_WRAPPER);
 						entries.add(ModItems.COPPER_SNACK);
 						entries.add(ModItems.GOLD_SNACK);
 						entries.add(ModItems.IRON_SNACK);
 						entries.add(ModItems.NETHERITE_SNACK);
-						entries.add(ModItems.SNACK_WRAPPER);
 					})
 					.build()
 	);
