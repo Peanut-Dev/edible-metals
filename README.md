@@ -14,7 +14,7 @@ ___
 
 **Snack Wrapper:**
 
-![Snack Wrapper](https://cdn.modrinth.com/data/hr47a9BX/images/ca3e5ca5a70a07ed2e0ce23814b6ebfa7f4d563c.png)
+![Snack Wrapper](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/SnackWrapper.png)
 
 Crafted with their respective ingot to create a snack   
 Can be used as fuel
@@ -23,7 +23,7 @@ ___
 
 **Copper Snack:**
 
-![Copper Snack](https://cdn.modrinth.com/data/hr47a9BX/images/998823a590c20d092d5a9cc7235d5d58ea0c1f7a.png)
+![Copper Snack](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/CopperSnack.png)
 
 Gives you Swiftness
 
@@ -31,7 +31,7 @@ ___
 
 **Gold Snack:**
 
-![Gold Snack](https://cdn.modrinth.com/data/hr47a9BX/images/da7a025ea1e5fb375286402dbb46b9391d0cc80e.png)
+![Gold Snack](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/GoldSnack.png)
 
 Gives you Regeneration
 
@@ -39,7 +39,7 @@ ___
 
 **Iron Snack:**
 
-![Iron Snack](https://cdn.modrinth.com/data/hr47a9BX/images/54950371606e3f76b9f4f851c7a841d0cb958da2.png)
+![Iron Snack](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/IronSnack.png)
 
 Gives you Strength
 
@@ -47,7 +47,7 @@ ___
 
 **Netherite Snack:**
 
-![Netherite Snack](https://cdn.modrinth.com/data/hr47a9BX/images/f793f27c52114451bf3d919db1c725d0490b74e0.png)
+![Netherite Snack](https://raw.githubusercontent.com/Peanut-Dev/edible-metals/refs/heads/master/assets/NetheriteSnack.png)
 
 Gives you Swiftness II, Strength II and Regeneration II
 
