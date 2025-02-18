@@ -4,7 +4,7 @@ ___
 
 Don't you hate it when you're in the middle of a mining session and run out of food?
 
-### FEAR NO MORE!!
+**FEAR NO MORE!!**
 
 This mod adds 4 new food items, crafted from ingots and wrappers, which restore your hunger and give you short buffs on consumption.
 
