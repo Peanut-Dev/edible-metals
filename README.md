@@ -53,4 +53,6 @@ Gives you Swiftness III, Strength III and Regeneration III
 
 ___
 
-[![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://curseforge.com/minecraft/mc-mods/edible-metals) [![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/edible-metals) [![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Peanut-Dev/edible-metals) [![discord](https://badges.penpow.dev/badges/social/discord-singular/cozy-minimal.svg)](https://discord.gg/TyfPRCrJ9E)
+[![Curseforge](https://badges.penpow.dev/badges/available/curseforge/cozy-minimal.svg)](https://curseforge.com/minecraft/mc-mods/edible-metals)
+[![Modrinth](https://badges.penpow.dev/badges/available/modrinth/cozy-minimal.svg)](https://modrinth.com/mod/edible-metals)
+[![GitHub](https://badges.penpow.dev/badges/available/github/cozy-minimal.svg)](https://github.com/Peanut-Dev/edible-metals)
